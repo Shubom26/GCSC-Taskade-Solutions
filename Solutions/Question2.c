@@ -1,6 +1,6 @@
 // A program to print ASCII Value of a given character.
 #include<stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
     char c;
     printf("Enter a character: ");
